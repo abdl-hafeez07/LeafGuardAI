@@ -533,7 +533,7 @@ with b3:
     st.markdown("""
     <div class='glass-card' style='text-align:center'>
         <div style='font-size:1.8rem'>🌿</div>
-        <div style='color:#fff;font-weight:700;font-size:0.9rem;margin-top:0.4rem'>11 Disease Classes</div>
+        <div style='color:#fff;font-weight:700;font-size:0.9rem;margin-top:0.4rem'>9 Disease Classes</div>
         <div style='color:rgba(255,255,255,0.5);font-size:0.78rem'>Including healthy detection</div>
     </div>
     """, unsafe_allow_html=True)
