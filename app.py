@@ -365,7 +365,7 @@ st.markdown("""
 <div class='hero-banner'>
     <p class='hero-title'>🍅 LeafGuard AI</p>
     <p class='hero-subtitle'>AI-powered Tomato Leaf Disease Detection in seconds</p>
-    <span class='hero-badge'>🧠 Deep Learning • 11 Classes • Instant Results</span>
+    <span class='hero-badge'>🧠 Deep Learning • 9 Classes • Instant Results</span>
 </div>
 """, unsafe_allow_html=True)
 
